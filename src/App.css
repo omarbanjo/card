@@ -1,0 +1,62 @@
+.App {
+  width:499px ;
+  height:307px;
+  margin-left:30px;
+  margin-top: 30px;
+ background:rgb(26,81,122);
+ border-radius: 6%;
+ background-image:url(https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/7/2019/02/Earth.jpg);
+}
+.card{
+  padding-top: 34px;
+  margin-left: 201px;
+  Font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  color:white;
+  font-size: 30px;
+  
+}
+.card-1{
+  width: 80px;
+  height: 67px;
+  position: relative;
+  left: 50px;
+  /* padding-left: 45px; */
+  /* padding-top: 5px; */
+  border-radius: 15px;
+}
+.card-2{
+  margin-left: 43px;
+  width: 335px;
+  height: 31px;
+  /* border:solid; */
+  color:hsl(56, 44%, 81%);
+  font-size:20px;
+}
+.card-3{
+  margin-left: 46px;
+  color:white;
+  font-size:20px;
+}
+.card-33{
+  margin-left: 46px;
+  color:white;
+  font-size:15px;
+}
+.card-4{
+  margin-left: 260px;
+  margin-top:-90px;
+  color: white;
+  font-size:12px;
+}
+.card-44{
+  margin-left: 280px;
+  margin-top:-20px;
+  color: white;
+  font-size:20px;
+}
+.card-5{
+  width: 67px;
+  height: 97px;
+  margin-left: 410px;
+  margin-top: -65px;
+}
